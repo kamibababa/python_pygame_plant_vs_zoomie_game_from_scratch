@@ -9,3 +9,7 @@
 
 链接：https://pan.baidu.com/s/1Icu2UkkHYfERhVU0USjHmw 
 提取码：yftf 
+
+### gitee地址
+
+[gitee地址](https://gitee.com/kamiba/python_pygame_plant_vs_zoomie_game_from_scratch)
